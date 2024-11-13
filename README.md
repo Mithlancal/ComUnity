@@ -12,4 +12,4 @@ ComUnity is a localized crowdfunding platform built with React Native, Firebase,
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/username/ComUnity.git
+   git clone https://github.com/Mithlancal/ComUnity.git
