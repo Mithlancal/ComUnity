@@ -1,0 +1,17 @@
+ComUnity
+├── src
+│   ├── components
+│   │   └── FundraiserCard.js
+│   ├── screens
+│   │   ├── HomeScreen.js
+│   │   ├── CreateFundraiserScreen.js
+│   │   └── LoginScreen.js
+│   ├── services
+│   │   └── firebase.js
+│   └── App.js
+├── assets
+│   └── images
+├── .gitignore
+├── app.json
+├── package.json
+└── README.md
